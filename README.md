@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Juts add text
+Just add text
